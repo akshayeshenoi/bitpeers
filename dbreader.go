@@ -1,4 +1,4 @@
-package bitpeers
+package main
 
 import (
 	"bytes"
